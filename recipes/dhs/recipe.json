@@ -36,8 +36,8 @@
       }
     },
     {
-      "name": "Households with Electricity",
-      "title": "Households with Electricity",
+      "name": "TEST",
+      "title": "TEST",
       "description": "",
       "type": "chart",
       "ingredients": {
@@ -49,7 +49,7 @@
           "#date+year": "$MAX$"
         },
         {
-          "#indicator+id": "HC_ELEC_H_ELC"
+          "#indicator+id": "FE_FRTR_W_TFR"
         }
         ],
         "aggregateColumns": [
