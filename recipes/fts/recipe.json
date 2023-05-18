@@ -37,6 +37,12 @@
       "description": "Comparative bar chart comparing requirements and funding for latest year",
       "type": "chart",
       "ingredients": {
+        "aggregateFunctions": [
+          "sum"
+        ],
+        "aggregateColumns": [
+          "#value+funding+usd+header"
+        ],
         "valueColumns": [
           "#value+funding+usd+value"
         ]
