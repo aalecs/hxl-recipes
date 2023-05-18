@@ -32,6 +32,17 @@
       }
     },
     {
+      "name": "[Pie] Requirements and Funding for Latest Year",
+      "title": "[Pie] Requirements and Funding for Latest Year",
+      "description": "Comparative bar chart comparing requirements and funding for latest year",
+      "type": "chart",
+      "ingredients": {
+        "valueColumns": [
+          "#value+funding+usd+value"
+        ]
+      }
+    },
+    {
       "name": "Requirements and Funding for Latest Year",
       "title": "Requirements and Funding for Latest Year",
       "description": "Stacked bar chart comparing requirements and funding for latest year",
